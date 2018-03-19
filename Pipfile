@@ -12,7 +12,6 @@ name = "pypi"
 [packages]
 
 fiona = "*"
-pandas = "*"
 shapely = "*"
 jupyter = "*"
 jupyterlab = "*"
